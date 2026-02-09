@@ -1,0 +1,8 @@
+"C:\Users\Koko\Desktop\testDir\abc.txt" 900150983CD24FB0D6963F7D28E17F72
+"C:\Users\Koko\Desktop\testDir\Hello world.txt" 86FB269D190D2C85F6E0468CECA42A20
+"C:\Users\Koko\Desktop\testDir\music\kanye\10.Hell Of A Life.m4a" C2FC09E4071ED727D70C691C03750B86
+"C:\Users\Koko\Desktop\testDir\music\vrgo\1.TOCHNA DOZA.m4a" 4FE9FB0BFF9D8714A9B8986544A00D21
+"C:\Users\Koko\Desktop\testDir\music\vrgo\4.HOW - Unreleased Bonus.m4a" 5CC1171D9A2165B16D83F4B0D1200C25
+"C:\Users\Koko\Desktop\testDir\photos\image00002.jpeg" 7C33AF3DFC910959B3DDC4F1CD99AA3F
+"C:\Users\Koko\Desktop\testDir\test2.txt" 41E6D5BA27CE8DD8E12DE7A8F3D0C6C9
+"C:\Users\Koko\Desktop\testDir\wordFIles\New Microsoft Word Document.docx" 57C57FF0AABE41064783BC326BF8ED6E

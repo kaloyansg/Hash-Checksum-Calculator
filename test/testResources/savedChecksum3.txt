@@ -1,0 +1,8 @@
+"C:\Users\Koko\Desktop\testDir\music\kanye\10.Hell Of A Life.m4a" B1C744C7
+"C:\Users\Koko\Desktop\testDir\music\mix\MULTIVER$E.wav" 6B6E8AFE
+"C:\Users\Koko\Desktop\testDir\music\vrgo\1.TOCHNA DOZA.m4a" 05832CFA
+"C:\Users\Koko\Desktop\testDir\music\vrgo\4.HOW - Unreleased Bonus.m4a" 164E8BB8
+"C:\Users\Koko\Desktop\testDir\New Text Document.txt" 00000001
+"C:\Users\Koko\Desktop\testDir\photos\image00002.jpeg" 96CA020E
+"C:\Users\Koko\Desktop\testDir\test2.txt" CD4779AB
+"C:\Users\Koko\Desktop\testDir\wordFIles\New Microsoft Word Document.docx" FE590A5F

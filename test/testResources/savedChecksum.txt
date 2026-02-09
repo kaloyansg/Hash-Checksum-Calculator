@@ -1,0 +1,6 @@
+"C:\Users\Koko\Desktop\testDir\music\kanye\10.Hell Of A Life.m4a" B1C744C7
+"C:\Users\Koko\Desktop\testDir\music\vrgo\1.TOCHNA DOZA.m4a" 05832CFA
+"C:\Users\Koko\Desktop\testDir\photos\image00002.jpeg" 96CA020E
+"C:\Users\Koko\Desktop\testDir\test.txt" 00000001
+"C:\Users\Koko\Desktop\testDir\test2.txt" 288B797B
+"C:\Users\Koko\Desktop\testDir\wordFIles\New Microsoft Word Document.docx" FE590A5F
